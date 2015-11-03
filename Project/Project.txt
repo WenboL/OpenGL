@@ -1,0 +1,20 @@
+/* CS 3GC3 Finial Project
+ 
+* Liu Wenbo 0970709 
+ 
+* Justin Kan 0843763
+ 
+* 
+ 
+* This program is coded on Mac computer.
+
+*
+* Program is a game, you using key: w,s,a,d to controll helicopter to avoid the rocks from the forward. 
+*
+ */
+
+
+I did lighting, tried texture, it works but we can't let it dectect the ppm file in one location, which means the location is different depends on the ppm file's location on different mechine, so we just comment it out.
+
+the speed of rocks will increse with the time past.
+Advanced camera is "LEFT/RIGHT/UP/DOWN" key button. 
